@@ -1,6 +1,6 @@
 #!/bin/bash
-LOGFILE=disch_log.txt
-LOG_INTERVAL=1			# duration between samples
+LOGFILE=../data/ch_log.txt
+LOG_INTERVAL=10			# duration between samples
 #LOG_TIME=100				#-1 - sets infinite time
 
 #LOG_TIME=$(LOG_TIME)+("date +%s")
